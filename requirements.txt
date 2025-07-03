@@ -1,0 +1,11 @@
+google-adk
+pymilvus 
+sentence-transformers 
+transformers 
+torch 
+google-genai 
+faiss-cpu 
+pymupdf
+langchain
+streamlit
+google-adk
